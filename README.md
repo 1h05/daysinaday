@@ -1,3 +1,3 @@
 # daysinaday
 
-Archive for the art project Days in a Day, created in 2002.
+Archive of the project Days in a Day, 2002-present.
