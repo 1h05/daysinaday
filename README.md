@@ -1,3 +1,3 @@
 # daysinaday
 
-Archive of the project Days in a Day, 2002-present.
+Archive of the Days in a Day project, 2002-present.
